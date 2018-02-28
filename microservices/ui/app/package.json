@@ -1,0 +1,28 @@
+{
+  "name": "WolframBot",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "dns": "^0.2.2",
+    "fetch": "^1.1.0",
+    "material-ui": "^1.0.0-beta.34",
+    "react-detect-offline": "^1.0.6",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14",
+    "react-split-pane": "^0.1.68",
+    "uuid": "^3.1.0",
+    "material-ui-icons": "^1.0.0-beta.17"
+    
+  },
+  "scripts": {
+    "start": "cross-env REACT_APP_CLUSTER_NAME=fifthly43 react-scripts start",
+    "build": "cross-env REACT_APP_CLUSTER_NAME=fifthly43 react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "cross-env": "^5.1.3"
+  }
+}

@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: fifthly43-hasura
+  data: null
+  kubeContext: fifthly43
+  name: fifthly43
