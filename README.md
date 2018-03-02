@@ -57,7 +57,7 @@ git clone https://github.com/debopriyobasu/WolframBot.git
 ```
 * After the cloning is complete,traverse to the cloned app directory using the following command:
 ```
-cd WolframBot\front-end
+cd WolframBot/microservices/ui/app
 ```
 * Now, install the dependencies using the following command:
 ```
