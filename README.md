@@ -31,12 +31,12 @@ The user can then wrap up the conversation by either thanking the bot or by send
 ## What does it use?
 
 1. ReactJS
-- react-bot-ui
 - react-detect-offline
 2. Dialogflow
 3. Python/Flask
 4. Wolfram Short Answers API
 5. Node Package Manager
+6. Material-UI v1 beta
 
 ## Steps to clone
 
